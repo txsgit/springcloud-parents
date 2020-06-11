@@ -1,5 +1,5 @@
 "# springcloud-parents" 
-
+jdk8
 ### springcloud 版本：
 ```
 Dalston.SR1
